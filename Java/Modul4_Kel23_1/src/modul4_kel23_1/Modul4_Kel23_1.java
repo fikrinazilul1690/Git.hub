@@ -2,7 +2,7 @@ package modul4_kel23_1;
 
 public class Modul4_Kel23_1 {
     
-    static void cetak(String kelompok) {
+/*    static void cetak(String kelompok) {
         System.out.println(kelompok);
     }
 
@@ -19,17 +19,17 @@ public class Modul4_Kel23_1 {
     // return type tanpa parameter
     static String cetak3() {
         return "Kali ini kita akan belajar mengenai Function";
-    }
+    }*/
     
     public static void main(String[] args) {
-         //penggunaan function non-return type dengan megisikan argument untuk parameter kelompok
+   /*      //penggunaan function non-return type dengan megisikan argument untuk parameter kelompok
         cetak("Kelompok 23");
         //penggunaan function non-return type tanpa parameter
         cetak1();
         //penggunaan function return type dengan mengisikan nilai pada parameter text
         System.out.println(cetak2("Function dengan Return"));
         //penggunaan function return type tanpa parameter
-        System.out.println(cetak3());
+        System.out.println(cetak3());*/
 
         pendefinisi objek = new pendefinisi();
 
