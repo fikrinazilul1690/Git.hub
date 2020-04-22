@@ -1,0 +1,13 @@
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Modul 5\Tugas\bin\Debug\netcoreapp3.1\Tugas.exe
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Modul 5\Tugas\bin\Debug\netcoreapp3.1\Tugas.deps.json
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Modul 5\Tugas\bin\Debug\netcoreapp3.1\Tugas.runtimeconfig.json
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Modul 5\Tugas\bin\Debug\netcoreapp3.1\Tugas.runtimeconfig.dev.json
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Modul 5\Tugas\bin\Debug\netcoreapp3.1\Tugas.dll
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Modul 5\Tugas\bin\Debug\netcoreapp3.1\Tugas.pdb
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Modul 5\Tugas\obj\Debug\netcoreapp3.1\Tugas.csprojAssemblyReference.cache
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Modul 5\Tugas\obj\Debug\netcoreapp3.1\Tugas.csproj.CoreCompileInputs.cache
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Modul 5\Tugas\obj\Debug\netcoreapp3.1\Tugas.AssemblyInfoInputs.cache
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Modul 5\Tugas\obj\Debug\netcoreapp3.1\Tugas.AssemblyInfo.cs
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Modul 5\Tugas\obj\Debug\netcoreapp3.1\Tugas.dll
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Modul 5\Tugas\obj\Debug\netcoreapp3.1\Tugas.pdb
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Modul 5\Tugas\obj\Debug\netcoreapp3.1\Tugas.genruntimeconfig.cache
