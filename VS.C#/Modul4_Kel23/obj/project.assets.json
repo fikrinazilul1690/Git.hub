@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Data Kuliah\\Fikri\\Kuliah\\Pemrograman\\Git.Hub\\Modul4_Kel23\\Modul4_Kel23\\VS.C#\\Modul4_Kel23\\Modul4_Kel23.csproj",
+      "projectUniqueName": "E:\\Data Kuliah\\Fikri\\Kuliah\\Pemrograman\\Git.hub\\VS.C#\\Modul4_Kel23\\Modul4_Kel23.csproj",
       "projectName": "Modul4_Kel23",
-      "projectPath": "E:\\Data Kuliah\\Fikri\\Kuliah\\Pemrograman\\Git.Hub\\Modul4_Kel23\\Modul4_Kel23\\VS.C#\\Modul4_Kel23\\Modul4_Kel23.csproj",
+      "projectPath": "E:\\Data Kuliah\\Fikri\\Kuliah\\Pemrograman\\Git.hub\\VS.C#\\Modul4_Kel23\\Modul4_Kel23.csproj",
       "packagesPath": "C:\\Users\\aar\\.nuget\\packages\\",
-      "outputPath": "E:\\Data Kuliah\\Fikri\\Kuliah\\Pemrograman\\Git.Hub\\Modul4_Kel23\\Modul4_Kel23\\VS.C#\\Modul4_Kel23\\obj\\",
+      "outputPath": "E:\\Data Kuliah\\Fikri\\Kuliah\\Pemrograman\\Git.hub\\VS.C#\\Modul4_Kel23\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aar\\AppData\\Roaming\\NuGet\\NuGet.Config",
