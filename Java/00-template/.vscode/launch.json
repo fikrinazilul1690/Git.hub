@@ -12,10 +12,10 @@
         },
         {
             "type": "java",
-            "name": "Debug (Launch)-main<01-template>",
+            "name": "Debug (Launch)-main<00-template>",
             "request": "launch",
             "mainClass": "com.tutorial.main",
-            "projectName": "01-template"
+            "projectName": "00-template"
         }
     ]
 }
