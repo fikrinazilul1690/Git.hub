@@ -22,8 +22,8 @@ namespace Tugas
 
             histories = new string[2, 4]
             {
-                {"fikri_23@gmail.com", "Fisika dasar","Dasar Komputer dan Pemrograman", "22-04-2020"},
-                {"seto_23@gmail.com", "Teka teki silang","Buku gambar", "22-04-2020"}
+                {"fikri_23@gmail.com", "Fisika dasar","Dasar Komputer dan Pemrograman", "24-04-2020"},
+                {"seto_23@gmail.com", "Teka teki silang","Buku gambar", "24-04-2020"}
 
             };
         }

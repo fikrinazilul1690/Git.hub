@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Data Kuliah\\Fikri\\Kuliah\\Pemrograman\\VS.C#\\Modul 5\\Tugas\\Tugas.csproj",
+      "projectUniqueName": "E:\\Data Kuliah\\Fikri\\Kuliah\\Pemrograman\\Git.hub\\Tugas Modul 5\\Tugas\\Tugas.csproj",
       "projectName": "Tugas",
-      "projectPath": "E:\\Data Kuliah\\Fikri\\Kuliah\\Pemrograman\\VS.C#\\Modul 5\\Tugas\\Tugas.csproj",
+      "projectPath": "E:\\Data Kuliah\\Fikri\\Kuliah\\Pemrograman\\Git.hub\\Tugas Modul 5\\Tugas\\Tugas.csproj",
       "packagesPath": "C:\\Users\\aar\\.nuget\\packages\\",
-      "outputPath": "E:\\Data Kuliah\\Fikri\\Kuliah\\Pemrograman\\VS.C#\\Modul 5\\Tugas\\obj\\",
+      "outputPath": "E:\\Data Kuliah\\Fikri\\Kuliah\\Pemrograman\\Git.hub\\Tugas Modul 5\\Tugas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aar\\AppData\\Roaming\\NuGet\\NuGet.Config",
