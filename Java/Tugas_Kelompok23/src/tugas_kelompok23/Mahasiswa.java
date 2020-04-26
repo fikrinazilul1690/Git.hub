@@ -10,13 +10,12 @@ package tugas_kelompok23;
  * @author aar
  */
 public class Mahasiswa {
-    private String name,nim;
-    private int semester;
+    private String name;
+    private int semester,nim;
     private float ip1,ip2,ip3,ip4,ip5,ip6,ip7,ip8,ipk,totalip;
     
     public Mahasiswa (){
-        this.name = "";
-        this.nim = "";
+        this.nim = 0;
         this.semester = 0;
         this.totalip = 0;
         this.ipk = 0;
@@ -24,7 +23,7 @@ public class Mahasiswa {
     public void setname(String name){
         this.name = name;
     }
-    public void setnim (String nim){
+    public void setnim (int nim){
         this.nim = nim;
     }
     public void setsemester (int semester){
@@ -62,7 +61,7 @@ public class Mahasiswa {
     public String getname(){
         return name;
     }
-    public String getnim(){
+    public int getnim(){
         return nim;
     }
     public int getsemester(){

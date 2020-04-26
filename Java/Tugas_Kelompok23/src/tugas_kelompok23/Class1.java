@@ -12,9 +12,10 @@ import java.util.Scanner;
  * @author aar
  */
 public class Class1 {
-    public void main(){
-        String name, nim, Dname, Dnim;
-        int semester, Dsmt;
+
+    public void main() {
+        String name, Dname;
+        int semester, nim, Dnim, Dsmt;
         float ip1, ip2, ip3, ip4, ip5, ip6, ip7, ip8, Dttlip, Dipk;
 
         try {
@@ -22,8 +23,9 @@ public class Class1 {
             Mahasiswa data = new Mahasiswa();
             System.out.print("Nama Mahasiswa\t : ");
             name = input.nextLine();
+            data.setname(name);
             System.out.print("NIM Mahasiswa\t : ");
-            nim = input.nextLine();
+            nim = input.nextInt();
             System.out.print("Semester Saat ini : ");
             semester = input.nextInt();
             switch (semester) {
@@ -151,9 +153,10 @@ public class Class1 {
                     data.setip7(ip7);
                     data.setip8(ip8);
                 default:
-                    break;
+                    System.err.println("Data yang anda masukan tidak terdeteksi oleh sistem !!!");
+                    System.err.println("Aplikasi masih dalam tahap uji coba");
+                    return;
             }
-            data.setname(name);
             data.setnim(nim);
             data.setsemester(semester);
             data.setttlip();
@@ -172,7 +175,7 @@ public class Class1 {
             System.out.println("IP Total\t: " + Dttlip);
             System.out.println("IPK\t\t: " + Dipk);
         } catch (Exception e) {
-            System.out.println("Data yang anda masukan salah !!");
+            System.err.println("Data yang anda masukan salah !!!");
         }
     }
 }
