@@ -6,6 +6,7 @@ public class Mahasiswa {
     private float ip1,ip2,ip3,ip4,ip5,ip6,ip7,ip8,ipk,totalip;
     
     public Mahasiswa (){
+        this.name = "";
         this.nim = 0;
         this.semester = 0;
         this.totalip = 0;
@@ -58,30 +59,6 @@ public class Mahasiswa {
     }
     public int getsemester(){
         return semester;
-    }
-    public float getip1(){
-        return ip1;
-    }
-    public float getip2(){
-        return ip2;
-    }
-    public float getip3(){
-        return ip3;
-    }
-    public float getip4(){
-        return ip4;
-    }
-    public float getip5(){
-        return ip5;
-    }
-    public float getip6(){
-        return ip6;
-    }
-    public float getip7(){
-        return ip7;
-    }
-    public float getip8(){
-        return ip8;
     }
     public float gettotalip(){
         return totalip;
