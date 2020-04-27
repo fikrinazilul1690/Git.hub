@@ -1,14 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package tugas_kelompok23;
 
-/**
- *
- * @author aar
- */
 public class Mahasiswa {
     private String name;
     private int semester,nim;
@@ -49,7 +40,8 @@ public class Mahasiswa {
     }
     public void setip7( float ip7){
         this.ip7 = ip7;
-    }public void setip8( float ip8){
+    }
+    public void setip8( float ip8){
         this.ip8 = ip8;
     }
     public void setttlip(){
