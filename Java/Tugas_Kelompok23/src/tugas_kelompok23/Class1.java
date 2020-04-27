@@ -142,6 +142,7 @@ public class Class1 {
                     data.setip6(ip6);
                     data.setip7(ip7);
                     data.setip8(ip8);
+                    break;
                 default:
                     System.err.println("Data yang anda masukan tidak terdeteksi oleh sistem !!!");
                     System.err.println("Aplikasi masih dalam tahap uji coba");
