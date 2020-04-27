@@ -1,0 +1,13 @@
+C:\Users\aar\source\repos\Tugas_Kelompok23\bin\Debug\netcoreapp3.1\Tugas_Kelompok23.exe
+C:\Users\aar\source\repos\Tugas_Kelompok23\bin\Debug\netcoreapp3.1\Tugas_Kelompok23.deps.json
+C:\Users\aar\source\repos\Tugas_Kelompok23\bin\Debug\netcoreapp3.1\Tugas_Kelompok23.runtimeconfig.json
+C:\Users\aar\source\repos\Tugas_Kelompok23\bin\Debug\netcoreapp3.1\Tugas_Kelompok23.runtimeconfig.dev.json
+C:\Users\aar\source\repos\Tugas_Kelompok23\bin\Debug\netcoreapp3.1\Tugas_Kelompok23.dll
+C:\Users\aar\source\repos\Tugas_Kelompok23\bin\Debug\netcoreapp3.1\Tugas_Kelompok23.pdb
+C:\Users\aar\source\repos\Tugas_Kelompok23\obj\Debug\netcoreapp3.1\Tugas_Kelompok23.csprojAssemblyReference.cache
+C:\Users\aar\source\repos\Tugas_Kelompok23\obj\Debug\netcoreapp3.1\Tugas_Kelompok23.csproj.CoreCompileInputs.cache
+C:\Users\aar\source\repos\Tugas_Kelompok23\obj\Debug\netcoreapp3.1\Tugas_Kelompok23.AssemblyInfoInputs.cache
+C:\Users\aar\source\repos\Tugas_Kelompok23\obj\Debug\netcoreapp3.1\Tugas_Kelompok23.AssemblyInfo.cs
+C:\Users\aar\source\repos\Tugas_Kelompok23\obj\Debug\netcoreapp3.1\Tugas_Kelompok23.dll
+C:\Users\aar\source\repos\Tugas_Kelompok23\obj\Debug\netcoreapp3.1\Tugas_Kelompok23.pdb
+C:\Users\aar\source\repos\Tugas_Kelompok23\obj\Debug\netcoreapp3.1\Tugas_Kelompok23.genruntimeconfig.cache
