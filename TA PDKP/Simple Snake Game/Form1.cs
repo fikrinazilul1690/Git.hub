@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
-using System.Threading;
 using System.Windows.Forms;
 
 namespace Simple_Snake_Game
@@ -142,6 +141,10 @@ namespace Simple_Snake_Game
                     {
                         eat();
                     }
+                    if (Snake[0].x == Food.x && Snake[0].y == Food.y)
+                    {
+                        eat();
+                    }
                 }
                 else
                 {
@@ -165,7 +168,6 @@ namespace Simple_Snake_Game
 
             GenerateFood();
         }
-
         private void Die()
         {
             Setting.GameOver = true;
