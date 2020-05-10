@@ -77,7 +77,7 @@
             this.numScore.BackColor = System.Drawing.Color.Transparent;
             this.numScore.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.numScore.ForeColor = System.Drawing.Color.Black;
-            this.numScore.Location = new System.Drawing.Point(667, 153);
+            this.numScore.Location = new System.Drawing.Point(645, 159);
             this.numScore.Name = "numScore";
             this.numScore.Size = new System.Drawing.Size(69, 73);
             this.numScore.TabIndex = 2;
