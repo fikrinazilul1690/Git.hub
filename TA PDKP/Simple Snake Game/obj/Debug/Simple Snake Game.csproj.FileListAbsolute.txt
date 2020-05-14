@@ -8,3 +8,13 @@ E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\TA PDKP\Simple Snake Game\bin\Debu
 E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\TA PDKP\Simple Snake Game\bin\Debug\Simple Snake Game.pdb
 E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\TA PDKP\Simple Snake Game\obj\Debug\Simple Snake Game.exe
 E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\TA PDKP\Simple Snake Game\obj\Debug\Simple Snake Game.pdb
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\Git.hub\TA PDKP\Simple Snake Game\bin\Debug\Simple Snake Game.exe.config
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\Git.hub\TA PDKP\Simple Snake Game\bin\Debug\Simple Snake Game.exe
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\Git.hub\TA PDKP\Simple Snake Game\bin\Debug\Simple Snake Game.pdb
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\Git.hub\TA PDKP\Simple Snake Game\obj\Debug\Simple Snake Game.csprojAssemblyReference.cache
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\Git.hub\TA PDKP\Simple Snake Game\obj\Debug\Simple_Snake_Game.Form1.resources
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\Git.hub\TA PDKP\Simple Snake Game\obj\Debug\Simple_Snake_Game.Properties.Resources.resources
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\Git.hub\TA PDKP\Simple Snake Game\obj\Debug\Simple Snake Game.csproj.GenerateResource.cache
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\Git.hub\TA PDKP\Simple Snake Game\obj\Debug\Simple Snake Game.csproj.CoreCompileInputs.cache
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\Git.hub\TA PDKP\Simple Snake Game\obj\Debug\Simple Snake Game.exe
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\Git.hub\TA PDKP\Simple Snake Game\obj\Debug\Simple Snake Game.pdb
