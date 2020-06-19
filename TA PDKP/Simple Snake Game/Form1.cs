@@ -10,6 +10,8 @@ namespace Simple_Snake_Game
         private List<Shape> Snake = new List<Shape>();
         private Shape Food = new Shape();
         Setting call = new Setting();
+        int points;
+        DialogResult hasil;
         int widht = 16;
         int height = 16;
         int score, speed;
@@ -159,9 +161,7 @@ namespace Simple_Snake_Game
             Food.x = Snake[Snake.Count - 1].x;
             Food.y = Snake[Snake.Count - 1].y;
             Snake.Add(Food);
-            int points = 10;
-            call.setPoints(points);
-
+            
             score += call.getPoints();
             call.setScore(score);
             numScore.Text = call.getScore().ToString();
@@ -231,6 +231,8 @@ namespace Simple_Snake_Game
         {
             Reset();
             speed = 10;
+            points = 10;
+            call.setPoints(points);
             call.setSpeed(speed);
             StartGame();
             timer1.Interval = 1000 / call.getSpeed();
@@ -242,6 +244,8 @@ namespace Simple_Snake_Game
         {
             Reset();
             speed = 15;
+            points = 20;
+            call.setPoints(points);
             call.setSpeed(speed);
             StartGame();
             timer1.Interval = 1000 / call.getSpeed();
@@ -253,6 +257,8 @@ namespace Simple_Snake_Game
         {
             Reset();
             speed = 25;
+            points = 30;
+            call.setPoints(points);
             call.setSpeed(speed);
             StartGame();
             timer1.Interval = 1000 / call.getSpeed();
@@ -264,6 +270,8 @@ namespace Simple_Snake_Game
         {
             Reset();
             speed = 33;
+            points = 50;
+            call.setPoints(points);
             call.setSpeed(speed);
             StartGame();
             timer1.Interval = 1000 / call.getSpeed();
@@ -273,14 +281,18 @@ namespace Simple_Snake_Game
 
         private void button5_Click(object sender, EventArgs e)
         {
-            this.Close();
+            hasil = MessageBox.Show("Ingin Keluar ??", "options", MessageBoxButtons.YesNo);
+
+            if (hasil == DialogResult.Yes)
+            {
+                this.Close();
+            }
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
             aktif = true;
         }
-
         private void Form1_KeyUp(object sender, KeyEventArgs e)
         {
             KeyInput.ChangeState(e.KeyCode, false);
