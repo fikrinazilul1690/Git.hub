@@ -1,0 +1,10 @@
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Pathfinding\bin\Debug\Pathfinding.exe.config
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Pathfinding\bin\Debug\Pathfinding.exe
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Pathfinding\bin\Debug\Pathfinding.pdb
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Pathfinding\obj\Debug\Pathfinding.csprojAssemblyReference.cache
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Pathfinding\obj\Debug\Pathfinding.Form1.resources
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Pathfinding\obj\Debug\Pathfinding.Properties.Resources.resources
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Pathfinding\obj\Debug\Pathfinding.csproj.GenerateResource.cache
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Pathfinding\obj\Debug\Pathfinding.csproj.CoreCompileInputs.cache
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Pathfinding\obj\Debug\Pathfinding.exe
+E:\Data Kuliah\Fikri\Kuliah\Pemrograman\VS.C#\Pathfinding\obj\Debug\Pathfinding.pdb
